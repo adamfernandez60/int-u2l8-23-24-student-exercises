@@ -16,6 +16,7 @@
 /* 3. Something is off with our selector. */
 .pokemon-list {
   list-style-type: circle;
+  background: lightblue;
 }
 
 /* 4. The link to the Pokémon Website should have a text color of blue */
